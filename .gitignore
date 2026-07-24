@@ -1,0 +1,38 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pyt
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Playwright / browser state
+browser_profile/
+**/BrowserMetrics-spare.pma
+**/Local State
+**/Preferences
+**/Cookies
+**/History
+
+# Output and debug artifacts
+outputs/
+debug/
+reports/
+logs/
+
+# Experiment state
+processed_urls.txt
+unsupported_urls.txt
+urls.txt
+
+# IDE and OS files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

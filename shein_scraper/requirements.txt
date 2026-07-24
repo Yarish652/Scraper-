@@ -1,0 +1,19 @@
+# Core libraries
+# pydantic for data validation and settings management
+pydantic
+pydantic-settings
+
+# Used for making HTTP requests
+httpx
+
+# Browser-assisted product API scraping
+playwright
+
+# Used for parsing HTML
+beautifulsoup4
+
+# Testing
+pytest
+
+# Linter and formatter
+ruff
